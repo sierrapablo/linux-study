@@ -23,7 +23,7 @@ El modelo de Linux se basa en la colaboración, lo que facilita que desarrollado
  - **Interfaz de línea de comandos (CLI):** ofrece una potente CLI que proporciona a los usuarios un control extenso sobre las funciones del sistema.
 
 ### El kernel de Linux
-![El kernel de Linux](../../assets/images/00-01-linux-kernel.png)
+![El kernel de Linux](../../assets/00-01-linux-kernel.png)
 El núcleo (kernel) actúa como el componente central del sistema operativo Linux. Funciona como un puente entre el hardware y el software. Algunas de sus principales funciones incluyen la gestión de la ejecución de múltiples aplicaciones, el reparto de recursos entre varios usuarios, el control de la interfaz de los dispositivos de entrada/salida (I/O) conectados a la computadora y la administración de archivos y directorios. Otras funciones incluyen:
 
  - **Gestión de procesos:** inicia, programa y finaliza procesos.
