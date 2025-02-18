@@ -83,5 +83,3 @@ sudo pacman -S zoxide
   ```
 
 Con `zoxide`, puedes moverte por el sistema de archivos mucho más rápido sin necesidad de recordar rutas largas.
-
-

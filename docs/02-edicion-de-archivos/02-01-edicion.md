@@ -61,5 +61,3 @@ Además, si usas **Neovim**, puedes configurar `init.lua` para personalizar comp
 [How to Edit a File in Linux? - Scaler Topics](https://www.scaler.com/topics/how-to-edit-a-file-in-linux/)
 
 [Linux Edit file - Tpoint Tech](https://www.javatpoint.com/linux-edit-file)
-
-
